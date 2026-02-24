@@ -58,15 +58,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash,git" />
 
- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
- <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
 </p>
 
 ##  DevOps & Cloud
